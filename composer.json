@@ -1,5 +1,5 @@
 {
-    "name": "gungnir-mvc/core",
+    "name": "gungnir-mvc/log",
     "description": "Log library for gungnir-mvc",
     "type": "library",
     "require": {
